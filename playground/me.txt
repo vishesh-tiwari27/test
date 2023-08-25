@@ -1,5 +1,0 @@
-{{#visheshtiwari-27}}
-Name- Vishesh Tiwari
-Skills- HTML5 , CSS3, Javascript, Angular, Git, Github
-E-mail- visheshtiwari732@gmail.com
-{{/visheshtiwari-27}}
